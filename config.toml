@@ -1,0 +1,87 @@
+## Basic Configuration
+
+baseurl = "https://lcnzg.github.io/blog/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Luciano Zago"
+title = "Luciano Zago"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-lcnzg-github-io-blog" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Luciano Zago"
+intro = "Developer"
+description = "Computer Engineering student @ UNICAMP, Brazil"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = ""
+keywords = "tech,developer,blog,brazil"
+
+## Social Accounts
+[params.social]
+github = "lcnzg"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "lcnzg"
+#twitter = "<username>"
+facebook = "lcnzg"
+#google = "<username>"
+stackoverflow = "10116428"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<username>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2019. Luciano Zago. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"

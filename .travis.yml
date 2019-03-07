@@ -1,0 +1,20 @@
+language: go
+
+go:
+  - master
+
+install:
+  - go get github.com/gohugoio/hugo
+
+script:
+  - hugo
+#  - echo 'url' > public/CNAME # Create a CNAME file which maps your site to your custom domain
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN
+  local_dir: public
+  on:
+branch: master
