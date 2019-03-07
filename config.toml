@@ -2,7 +2,7 @@
 
 baseurl = "https://lcnzg.github.io/blog/"
 builddrafts = false
-canonifyurls = false
+canonifyurls = true
 languageCode = "en-US"
 
 contentdir = "content"
