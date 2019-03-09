@@ -74,6 +74,7 @@ poweredby = true
 highlightjs = true
 socialmarkup = true
 
+
 ## Main Menu
 [[menu.main]]
     name = "blog"
@@ -85,3 +86,8 @@ socialmarkup = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "study notes"
+    identifier = "study-notes"
+    weight = 300
+    url = "/study-notes/"
