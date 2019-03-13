@@ -8,7 +8,7 @@ install:
 
 script:
   - hugo
-#  - echo 'url' > public/CNAME # Create a CNAME file which maps your site to your custom domain
+  - echo 'lucianozago.com' > public/CNAME
 
 # Deploy to GitHub pages
 deploy:
