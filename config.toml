@@ -15,7 +15,7 @@ title = "Luciano Zago"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "luciano-zago.disqus.com"
+disqusShortname = "luciano-zago"
 googleAnalytics = "UA-137037026-1"
 enableRobotsTXT = true
 
