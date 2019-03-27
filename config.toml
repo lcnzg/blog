@@ -15,8 +15,8 @@ title = "Luciano Zago"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-#disqusShortname = "https-lucianozago-com" # Comment out to disable Disqus.
-#googleAnalytics = "XYZ"
+disqusShortname = "luciano-zago.disqus.com"
+googleAnalytics = "UA-137037026-1"
 enableRobotsTXT = true
 
 ## Site Settings
@@ -86,8 +86,3 @@ socialmarkup = true
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "study notes"
-    identifier = "study-notes"
-    weight = 300
-    url = "/study-notes/"
