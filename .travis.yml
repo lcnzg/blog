@@ -1,10 +1,10 @@
-language: go
+language: minimal
 
-go:
-  - master
-
+# Install Hugo
 install:
-  - go get github.com/gohugoio/hugo
+  - url=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p;q}}')
+  - curl -OLkSs $url
+  - sudo dpkg -i hugo*.deb
 
 script:
   - hugo
