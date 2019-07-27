@@ -73,7 +73,8 @@ copyright = "© 2019. Luciano Zago. [Some Rights Reserved](http://creativecommon
 poweredby = true
 highlightjs = true
 socialmarkup = true
-
+toc = false
+displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
