@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Luciano Zago</title>
+    <link>https://lucianozago.com/categories/about/</link>
+    <description>Recent content in about on Luciano Zago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 24 Feb 2020 22:20:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://lucianozago.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://lucianozago.com/about/</link>
+      <pubDate>Mon, 24 Feb 2020 22:20:00 -0300</pubDate>
+      
+      <guid>https://lucianozago.com/about/</guid>
+      <description>I&amp;rsquo;m an undergrad student in Computer Engineering at UNICAMP that loves programming and solving problems.
+I&amp;rsquo;m currently working as a Intern at the Brazilian Center for Research in Energy and Materials (CNPEM), into the Brazilian Synchrotron Light Laboratory (LNLS) / Sirius, on the Scientific Computing Group (GCC). I&amp;rsquo;m designing solutions in automation and monitoring of high-performance computing machines.
+Previously, I worked in a project called OpenPOWER@UNICAMP, with IBM. I&amp;rsquo;ve designed a solution to distribute POWER builds (ppc64le architecture) worldwide, along with CI recipes to build Open Source software.</description>
+    </item>
+    
+  </channel>
+</rss>
