@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Luciano Zago"
-intro = "Developer"
-description = "Computer Science MSc student @ UNICAMP, Brazil"
+intro = "Compiler Engineer"
+description = "Computer Science MSc student @UNICAMP, Brazil"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
