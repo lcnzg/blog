@@ -39,9 +39,11 @@ github = "lcnzg"
 #xing = "<username>"
 linkedin = "lcnzg"
 #twitter = "<username>"
-facebook = "lcnzg"
+#facebook = "lcnzg"
 #google = "<username>"
-stackoverflow = "10116428"
+googlescholar = "sTehtnoAAAAJ"
+orcid = "0000-0003-4417-163X"
+#stackoverflow = "10116428"
 #lastfm = "<username>"
 #goodreads = "<username>"
 #gitlab = "<username>"
@@ -70,7 +72,7 @@ email = "me@lucianozago.com"
 ## Extras
 [params.extra]
 copyright = "© 2023. Luciano Zago. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = true
+poweredby = false
 highlightjs = true
 socialmarkup = true
 toc = false
