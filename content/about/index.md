@@ -25,4 +25,4 @@ As a hobby, I play percussion instruments. I studied percussion for more than 10
 
 You might be interested in reading my articles published in other sites:
 
-* [Setting up a FTP Server with Access List and Disk Quota](https://openpower.ic.unicamp.br/post/ftp-server-setup-with-acl-and-quota/)
+* [Setting up a FTP Server with Access List and Disk Quota](https://web.archive.org/web/20230407023534/https://openpower.ic.unicamp.br/post/ftp-server-setup-with-acl-and-quota/)
