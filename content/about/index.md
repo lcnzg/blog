@@ -13,7 +13,7 @@ showcomments = false
 
 I'm a MSc student in Computer Science at [UNICAMP](https://www.unicamp.br/unicamp/english) that loves programming and solving problems. I graduated in Computer Engineering from the same university.
 
-I'm currently researching in compiler construction and code optimization. I'm also interested in computer architecture, HPC systems and parallel computing.
+I'm currently researching in compiler construction and code optimization at UNICAMP and working as a Site Reliability Engineer for [Griaule](https://griaule.com/). I'm also interested in parallel computing, computer architecture, HPC systems and reliability.
 
 Previously, I worked as a Intern at the Brazilian Center for Research in Energy and Materials ([CNPEM](https://cnpem.br/en/)), into the Brazilian Synchrotron Light Laboratory ([LNLS](https://www.lnls.cnpem.br/en/)) / Sirius, on the Scientific Computing Group ([GCC](https://www.lnls.cnpem.br/grupos/gcc-en/)). I've designed solutions in automation and monitoring of high-performance computing machines.
 
