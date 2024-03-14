@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Luciano Zago"
 intro = "Compiler Engineer"
-description = "Computer Science MSc student @UNICAMP, Brazil"
+description = "MSc in Computer Science"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -71,7 +71,7 @@ email = "me@lucianozago.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2023. Luciano Zago. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2024. Luciano Zago. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = false
 highlightjs = true
 socialmarkup = true

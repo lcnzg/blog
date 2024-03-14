@@ -1,7 +1,7 @@
 +++
 categories = ["about"]
 comments = false
-date = "2021-08-06T19:00:00-03:00"
+date = "2024-03-13T21:10:00-03:00"
 draft = false
 slug = ""
 tags = ["about"]
@@ -11,9 +11,9 @@ showpagemeta = false
 showcomments = false
 +++
 
-I'm a MSc student in Computer Science at [UNICAMP](https://www.unicamp.br/unicamp/english) that loves programming and solving problems. I graduated in Computer Engineering from the same university.
+I hold a MSc degree in Computer Science from [UNICAMP](https://www.unicamp.br/unicamp/english), where I also completed my undergraduate studies in Computer Engineering.
 
-I'm currently researching in compiler construction and code optimization at UNICAMP and working as a Site Reliability Engineer for [Griaule](https://griaule.com/). I'm also interested in parallel computing, computer architecture, HPC systems and reliability.
+My passion lies in programming and tackling complex problems. Currently, I am employed as a Site Reliability Engineer at [Griaule](https://griaule.com/). During my postgraduate studies, I focused on compiler construction and code optimization at UNICAMP. Additionally, my interests extend to parallel computing, computer architecture, high-performance computing systems, and reliability.
 
 Previously, I worked as a Intern at the Brazilian Center for Research in Energy and Materials ([CNPEM](https://cnpem.br/en/)), into the Brazilian Synchrotron Light Laboratory ([LNLS](https://www.lnls.cnpem.br/en/)) / Sirius, on the Scientific Computing Group ([GCC](https://www.lnls.cnpem.br/grupos/gcc-en/)). I've designed solutions in automation and monitoring of high-performance computing machines.
 
