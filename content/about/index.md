@@ -1,7 +1,7 @@
 +++
 categories = ["about"]
 comments = false
-date = "2024-03-13T21:10:00-03:00"
+date = "2024-10-01T21:10:00-03:00"
 draft = false
 slug = ""
 tags = ["about"]
@@ -13,7 +13,7 @@ showcomments = false
 
 I hold a MSc degree in Computer Science from [UNICAMP](https://www.unicamp.br/unicamp/english), where I also completed my undergraduate studies in Computer Engineering.
 
-My passion lies in programming and tackling complex problems. Currently, I am employed as a Site Reliability Engineer at [Griaule](https://griaule.com/). During my postgraduate studies, I focused on compiler construction and code optimization at UNICAMP. Additionally, my interests extend to parallel computing, computer architecture, high-performance computing systems, and reliability.
+My passion lies in programming and tackling complex problems. Currently, I am employed as a MLOps Engineer at [Griaule](https://griaule.com/). During my postgraduate studies, I focused on compiler construction and code optimization at UNICAMP. Additionally, my interests extend to parallel computing, computer architecture, high-performance computing systems, and reliability.
 
 Previously, I worked as a Intern at the Brazilian Center for Research in Energy and Materials ([CNPEM](https://cnpem.br/en/)), into the Brazilian Synchrotron Light Laboratory ([LNLS](https://www.lnls.cnpem.br/en/)) / Sirius, on the Scientific Computing Group ([GCC](https://www.lnls.cnpem.br/grupos/gcc-en/)). I've designed solutions in automation and monitoring of high-performance computing machines.
 
